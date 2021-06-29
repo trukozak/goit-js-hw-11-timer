@@ -1,0 +1,25 @@
+.img {
+  display: block;
+  margin: 0 auto;
+}
+.text {
+  font-size: 30px;
+  text-align: center;
+}
+.timer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.value {
+  font-size: 26px;
+  padding: 10px;
+  background-color: black;
+  color: rgb(122, 122, 46);
+}
+.label {
+  font-size: 26px;
+  margin-right: 10px;
+  background-color: black;
+  color: rgb(196, 179, 179);
+}
